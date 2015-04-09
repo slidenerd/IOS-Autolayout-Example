@@ -1,6 +1,6 @@
 <h1>IOS Swift AutoLayout Example</h1>
 
-<h3>iPhone 6</hh3>
+<h3>iPhone 6</h3>
 ![testgif](https://cloud.githubusercontent.com/assets/5139030/7063990/261482f0-dec9-11e4-8080-997214a2b8d5.gif)
 
 <h3>iPhone 5s</h3>
